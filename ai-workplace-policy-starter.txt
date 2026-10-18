@@ -1,0 +1,34 @@
+# THE LEGAL FENNEC | EDUCATIONAL WORKSHEET
+Last reviewed: 19 October 2026
+
+Purpose: A practical starting point for internal discussion and documentation.
+This is general educational material. It is not legal advice, a contract, a legal opinion, or a guarantee of compliance. Laws and terms vary by country and provider. Do not put confidential personal data in publicly shared copies. Seek qualified legal review before adopting a formal policy or legal document.
+
+INTERNAL AI USE POLICY | PLANNING TEMPLATE
+
+Organisation: ________________________   Draft date: __________________
+Policy owner: ________________________   Planned review date: __________
+
+A. SCOPE
+Which teams, contractors, systems and activities would this policy cover?
+_____________________________________________________________
+B. ACCEPTABLE USE
+Which tasks may use AI tools? Which tools/accounts are approved?
+_____________________________________________________________
+C. RESTRICTED OR PROHIBITED INPUTS
+Specify treatment of confidential contracts, unreleased projects, trade secrets, personal data, client information and third-party materials.
+_____________________________________________________________
+D. HUMAN REVIEW
+Who is responsible for verifying factual accuracy, bias, rights and output quality?
+_____________________________________________________________
+E. RIGHTS AND TRANSPARENCY
+How will the organisation document licensing, consent, AI assistance and required disclosures?
+_____________________________________________________________
+F. DATA HANDLING AND SECURITY
+What retention, access, deletion and incident response rules apply?
+_____________________________________________________________
+G. TRAINING, APPROVAL AND UPDATES
+Who authorizes tools, trains staff and reviews changes to provider terms and applicable law?
+_____________________________________________________________
+
+DRAFT ONLY: obtain internal stakeholder review and qualified legal input before adopting as binding company policy.

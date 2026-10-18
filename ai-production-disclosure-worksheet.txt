@@ -1,0 +1,29 @@
+# THE LEGAL FENNEC | EDUCATIONAL WORKSHEET
+Last reviewed: 19 October 2026
+
+Purpose: A practical starting point for internal discussion and documentation.
+This is general educational material. It is not legal advice, a contract, a legal opinion, or a guarantee of compliance. Laws and terms vary by country and provider. Do not put confidential personal data in publicly shared copies. Seek qualified legal review before adopting a formal policy or legal document.
+
+AUDIOVISUAL AI USE DISCLOSURE WORKSHEET
+
+Film / project: __________________________  Production company: ___________
+Contact person: _________________________  Date of review: ________________
+
+1. Which AI tools were used? Identify provider, tool name, version (if known), and dates.
+_____________________________________________________________
+2. For what purpose? (e.g. brainstorming, subtitles, dubbing, concept images, VFX, editing support)
+_____________________________________________________________
+3. What materials were provided to the tools? Were any protected scripts, recordings, personal data or confidential files uploaded?
+_____________________________________________________________
+4. Was any output included in the final work? Where, and with what human creative involvement?
+_____________________________________________________________
+5. Who authorized the use? Record approval and any relevant contractual provisions.
+_____________________________________________________________
+6. Are performer likenesses, voices, music, images or third-party protected content implicated? Record consents or unresolved permissions.
+_____________________________________________________________
+7. What disclosure is required under applicable contracts, funder/festival rules, platform rules and law? Confirm the latest requirements; do not assume one universal standard.
+_____________________________________________________________
+8. What records and evidence should be retained? Consider security and privacy obligations.
+_____________________________________________________________
+
+Open issues: __________________________  Reviewer: ___________________

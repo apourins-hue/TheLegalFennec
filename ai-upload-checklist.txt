@@ -1,14 +1,25 @@
-THE LEGAL FENNEC
-Before uploading unpublished creative material to an AI service
-Educational checklist: first edition, October 2026
+# THE LEGAL FENNEC | EDUCATIONAL WORKSHEET
+Last reviewed: 19 October 2026
 
-[ ] Do I own the material, or have permission from all relevant rights holders to share it?
-[ ] Is the screenplay, treatment or agreement confidential or subject to an NDA?
-[ ] Does a contract with a client, producer or co-author restrict third-party disclosures?
-[ ] What do the specific AI provider's current terms, privacy notices and settings say about retention, access and training?
-[ ] Can I minimize the disclosure, remove personal data or use an approved confidential alternative?
-[ ] Have I checked applicable privacy, copyright and professional confidentiality obligations in the relevant jurisdiction?
-[ ] Should I obtain written approval from the relevant producer, employer or rights holder before proceeding?
-[ ] Can I document the decision, settings used, consent and any necessary safeguards?
+Purpose: A practical starting point for internal discussion and documentation.
+This is general educational material. It is not legal advice, a contract, a legal opinion, or a guarantee of compliance. Laws and terms vary by country and provider. Do not put confidential personal data in publicly shared copies. Seek qualified legal review before adopting a formal policy or legal document.
 
-Important: This checklist is general educational information, not legal advice or a guarantee of confidentiality. It does not establish whether a particular AI service is safe, or whether any disclosure is lawful. Check up-to-date contractual terms and applicable law, and seek qualified counsel when needed.
+AI PRE-UPLOAD CHECKLIST
+
+Project / document: ________________________   Date: ______________
+Tool and account type: _____________________________________________
+
+[ ] Identify what you plan to upload (script, treatment, contract, image, personal data).
+[ ] Confirm that you have the authority to share the material with this service.
+[ ] Check contracts, NDAs and any professional confidentiality duties.
+[ ] Remove personal information and trade secrets wherever possible.
+[ ] Read the provider's current terms, data retention and training settings.
+[ ] Check whether administrators, service providers or third parties can access inputs.
+[ ] Consider whether uploading would breach third-party rights or obligations.
+[ ] Check whether a secure enterprise option or a local alternative would be safer.
+[ ] Document the choice, approval, tool version and date.
+[ ] Do not upload if permission or confidentiality is unresolved.
+
+Questions to resolve: _____________________________________________
+Person responsible for approval: __________________________________
+Decision (approve / restrict / do not upload): ______________________
