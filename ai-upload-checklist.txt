@@ -1,0 +1,14 @@
+THE LEGAL FENNEC
+Before uploading unpublished creative material to an AI service
+Educational checklist — first edition, October 2026
+
+[ ] Do I own the material, or have permission from all relevant rights holders to share it?
+[ ] Is the screenplay, treatment or agreement confidential or subject to an NDA?
+[ ] Does a contract with a client, producer or co-author restrict third-party disclosures?
+[ ] What do the specific AI provider's current terms, privacy notices and settings say about retention, access and training?
+[ ] Can I minimize the disclosure, remove personal data or use an approved confidential alternative?
+[ ] Have I checked applicable privacy, copyright and professional confidentiality obligations in the relevant jurisdiction?
+[ ] Should I obtain written approval from the relevant producer, employer or rights holder before proceeding?
+[ ] Can I document the decision, settings used, consent and any necessary safeguards?
+
+Important: This checklist is general educational information, not legal advice or a guarantee of confidentiality. It does not establish whether a particular AI service is safe, or whether any disclosure is lawful. Check up-to-date contractual terms and applicable law, and seek qualified counsel when needed.
