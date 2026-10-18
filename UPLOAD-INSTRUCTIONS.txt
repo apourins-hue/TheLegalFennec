@@ -1,0 +1,7 @@
+# The Legal Fennec: punctuation cleanup
+
+Updated the wording to remove em dashes across the current pages without changing the layout or article links.
+
+To publish: upload the HTML files and the articles folder contents to the same paths in your GitHub repository. Existing filenames must be preserved. Keep your README.md and other files. Do not upload this instruction file.
+
+The ZIP includes a complete snapshot of the current website pages and checklist.
