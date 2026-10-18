@@ -1,0 +1,12 @@
+The Legal Fennec: community and comments update
+
+Upload index.html, community.html and the articles folder contents to their matching GitHub paths. Preserve articles/ so that the published URL continues to work. Other files in the package are backups.
+
+To activate comments:
+1. Go to https://github.com/apps/utterances
+2. Install the Utterances app for the GitHub account apourins-hue, selecting ONLY TheLegalFennec repository. Review permissions before authorizing.
+3. Make sure Issues is enabled for the repository (Settings > General > Features > Issues).
+4. Open https://apourins-hue.github.io/TheLegalFennec/articles/you-created-it-but-do-you-own-it.html and scroll to the bottom.
+5. Sign in with GitHub to post a test comment. The first comment creates a matching issue, stored under repository Issues.
+
+Notes: Visitors need GitHub accounts to comment. All comments are public. Review and moderate them in GitHub Issues. The community pitch builder does not submit or store content and requires an eventual inbox to accept pitches privately.
