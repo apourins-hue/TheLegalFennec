@@ -1,9 +1,5 @@
-THE LEGAL FENNEC — EDUCATION UPDATE
+THE LEGAL FENNEC — GLOBAL POLICY UPDATE
 
-Upload index.html and education.html to the ROOT of your GitHub repository. GitHub should show index.html as modified and education.html as added. Commit directly to main.
+Upload index.html and global-policy.html to the ROOT of the repository. Replace the existing index.html. Keep education.html, contact.html, articles/ and ai-upload-checklist.txt intact.
 
-Other files are included only as backup and do not need uploading if already present.
-
-On your homepage, Study & opportunities links to education.html. The separate Education page includes a continent/country filter and a six-question interactive reflection quiz. No sign-in or database needed; answers stay in the visitor’s browser.
-
-Selected programmes are linked to official university pages. Fees, admission requirements and course availability can change.
+Directory editorial review date: 19 October 2026. Official links included; please periodically re-check evolving legislation.
