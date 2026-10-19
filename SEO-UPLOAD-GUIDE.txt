@@ -1,0 +1,12 @@
+THE LEGAL FENNEC — SEO UPDATE
+
+1. Back up your GitHub repository before replacing any files.
+2. Upload the CONTENTS of this folder into the root of apourins-hue/TheLegalFennec, preserving the articles/ folder. Do not delete unrelated existing files.
+3. Keep the existing GitHub Pages custom domain configured as thelegalfennec.org and Enforce HTTPS on.
+4. Check https://thelegalfennec.org/sitemap.xml and https://thelegalfennec.org/robots.txt after deployment.
+5. In Search Console > Sitemaps, submit: sitemap.xml
+6. Inspect important URLs, including the two /articles/ pages, and request indexing when appropriate.
+7. Sitemap covers known public content pages; new pages must be added manually.
+8. Duplicate older root article URLs include noindex/canonical pointing to /articles/.
+
+This changes metadata and search-discovery files, not the intended visible design. Search appearance and rankings are not guaranteed.
