@@ -1,0 +1,25 @@
+THE LEGAL FENNEC – CONSENT-BASED ANALYTICS UPDATE
+
+Google Analytics measurement ID: G-PJPEL33JVQ
+
+What changed
+- Added a consent-controlled analytics loader to every existing HTML page (including both article paths).
+- Google Analytics JavaScript is not requested until a reader accepts analytics.
+- Added Reject / Accept options, a persistent Privacy settings link, and the new privacy.html notice.
+- No existing site content, article text, navigation, comments, or layout was intentionally changed.
+
+How to deploy
+1. Keep a backup of your current GitHub repository.
+2. Extract this ZIP locally.
+3. Upload the contents of this folder to the ROOT of the GitHub repository, preserving the articles/ directory.
+4. Replace same-named HTML files and commit the changes to main.
+5. IMPORTANT: Also upload privacy-consent.js, privacy-consent.css, and privacy.html to the ROOT.
+6. Confirm the GitHub Pages deployment completed.
+7. In a private/incognito window, visit thelegalfennec.org. Before accepting, verify no requests go to googletagmanager.com or google-analytics.com. Reject and retest. Then accept and open Google Analytics > Reports > Realtime to check events. Ad blockers may suppress analytics.
+8. Verify homepage, articles, contact, toolkit, education, and comment sections still work.
+
+Notes
+- The consent choice is stored in localStorage; clearing site data causes the banner to reappear.
+- This is a technical consent-gating implementation, NOT a complete legal compliance certification. Verify privacy policy details, controller identity/contact method, retention and international transfers before publicly relying on it.
+- Both index.html and index (2).html and duplicate root article pages were preserved from the supplied ZIP. Only index.html is the actual homepage; you may clean up duplicates later.
+- Google Analytics does not recover historical site visits from before installation.
