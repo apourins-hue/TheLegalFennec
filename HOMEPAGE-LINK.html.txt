@@ -1,0 +1,9 @@
+Add this card inside the Insights section of index.html, adapting classes to your existing layout:
+
+<a href="articles/can-we-call-it-the-legal-fennec.html">
+  <strong>Can We Call It The Legal Fennec?</strong>
+  <p>What a domain search, trademark classes and existing businesses taught us about naming a publication.</p>
+  <span>Read the article →</span>
+</a>
+
+If your Insights section has existing cards, duplicate one and replace its title, excerpt and href with the values above to preserve the homepage design.
